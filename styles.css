@@ -1,0 +1,38 @@
+#PageTitle {
+    background-color:white;
+    text-align: center;
+}
+
+body {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: lightgray;}
+
+.flex-container {display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap:100px}
+
+.flex-item {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    text-align: left;}
+
+    #time {
+color:grey;
+text-align: right;
+padding-right: 20px;
+padding-left: 200px;
+margin-left: 0px;
+}
+
+.flex-item2 {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    
+}
+strong {padding: 15px;
+}
+
+p {padding: 15px;
+}
+header {color: white;}
